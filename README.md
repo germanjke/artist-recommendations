@@ -16,5 +16,5 @@ ALS
 Mean Average Precision at k
 
 #### Problems:
-1. Local machine can build sparse matrix only with 5k samples
+1. My local machine can build sparse matrix only with 5k samples
 2. Quality in dataset (can't represent artist names sometimes etc)
