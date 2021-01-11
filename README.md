@@ -1,3 +1,8 @@
+You can download dataset here: [30Music Dataset](http://recsys.deib.polimi.it/datasets/)
+
+#### Task:
+Recommend artists
+
 #### Little bit about Data Preparation
 
 #### Base approach (0.0019 MAP):
